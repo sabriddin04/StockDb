@@ -37,7 +37,6 @@ public class ProductService
 
   }
 
-
   public List<ProductsStock> GetStocksWithProducts()
   {
 
